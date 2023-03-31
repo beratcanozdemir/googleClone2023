@@ -1,0 +1,91 @@
+#container-1 {
+    width: 100%;
+    height: 680px;
+}
+#navbar-id {
+    
+    width: 100%;
+    height: 50px;
+}
+.navbar-item {
+    
+    width: 60px;
+    height: 30px;
+    margin: 5px;
+    text-align: center;
+}
+.navbar-item-2 {
+    width: 120px;
+    height: 30px;
+    margin: 5px;
+    text-align: center;
+}
+.p-5 {
+    padding-top: 5px;
+}
+.a-class {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+#btn-1 {
+    font-size: 14px;
+    background-color: #0d6efd;
+    color: white;
+    border-radius: 3px;
+    border-color: white;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+#logo-1 {
+    text-align: center;
+    margin-top: 100px;
+}
+#search-bar {
+    width: 700px;
+    height: 40px;
+    border-radius: 20px;
+    color: gray;
+    background-color: rgb(255, 254, 254);
+    box-shadow: 1px 1px 1px 1px rgb(207, 202, 202);
+}
+.btn-2 {
+    margin-top: 20px;
+}
+#input {
+    border: none;
+}
+.submit {
+    height: 36px;
+    border: 1px #f2f2f2;
+    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #5f6368;
+    margin: 5px;
+}
+#container-2 {
+    width: 100%;
+    height: 40px;
+    background-color: #f2f2f2;
+    margin-top: 300px;
+}
+.a-class-2 {
+    color: rgb(95, 93, 93);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 25px;
+}
+.a-class-3 {
+    color: rgb(95, 93, 93);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    margin-right: 25px;
+}
